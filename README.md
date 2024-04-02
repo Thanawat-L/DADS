@@ -3,7 +3,9 @@ DADS5001 AS03
 By ธนวัฒน์ เหลืองวิโรจน์ 6610422005
 
 ชุดข้อมูลนี้ประกอบด้วย "clinical features" หรือ "visual characteristics" ของผู้ป่วยที่ตรวจพบว่าเป็นมะเร็ง
+
 แหล่งข้อมูล : [https://www.kaggle.com/datasets/sumanthnimmagadda/student-spending-dataset](https://www.kaggle.com/datasets/erdemtaha/cancer-data)
+
 ตัวอย่าง Code : [https://github.com/Pomaccel/DADS5001-Data-Analytics-and-Data-Science-Tools-and-Programming/blob/main/6610422013_AS03.ipynb](https://github.com/Thanawat-L/DADS/blob/cad4ac9a063d1c7da8f29470c5ef05991ce014d4/DADS5001_Tools_6610422005_as03.ipynb)
 
 อธิบายชุดข้อมูล
